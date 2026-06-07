@@ -9,7 +9,7 @@ An interactive Streamlit web application that utilizes a Machine Learning Decisi
 - **ROC Curve:** Features an interactive Receiver Operating Characteristic curve hitting a robust **AUC of 0.932**.
 - **Feature Importance:** Automatically ranks mathematical features, proving that feature `V17` is the single largest indicator of fraudulent patterns.
 
-![Dashboard Performance Metrics and Diagnostics](dashboard_metrics.jpg)
+![Dashboard Performance Metrics and Diagnostics](dashboard_metrics.png)
 
 ---
 
@@ -18,7 +18,7 @@ An interactive Streamlit web application that utilizes a Machine Learning Decisi
 - **Dynamic Threat Tiers:** Automatically flags events as *Critical*, *Medium*, or *Low* risk.
 - **Analyst-First Sorting:** Floats the highest risk transactions straight to the top of the queue for investigation.
 
-![Real-Time Interactive Fraud Risk Queue Table](risk_queue.jpg)
+![Real-Time Interactive Fraud Risk Queue Table](risk_queue.png)
 
 ---
 
